@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkhilaGanguri
-- 👀 I’m interested in web development and Wordpress development
+- 👀 I’m interested in web development and software engineering
 - 🌱 I’m currently pursuing B.tech 
-- 💞️ I’m looking to collaborate on real time web and wordpress development projects
+- 💞️ I’m looking to collaborate on real time web and software development projects
 - 📫 Reach me @ganguriakhila@gmail.com
 - 😄 Pronouns: SHE
 - ⚡ Fun fact: coding is not just a work, it's an emotion
