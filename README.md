@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkhilaGanguri
 - 👀 I’m interested in web development and software engineering
-- 🌱 I’m currently pursuing B.tech 
+- 🌱 I’m B.tech 2025 graduate 
 - 💞️ I’m looking to collaborate on real time web and software development projects
 - 📫 Reach me @ganguriakhila@gmail.com
 - 😄 Pronouns: SHE
